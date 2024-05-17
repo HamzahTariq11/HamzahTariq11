@@ -14,8 +14,9 @@
  
  
 
- <div align="left">
-- 📫 How to reach me: ...
+ <div>
+- 📫 How to reach me: 
+     &#x2193
  </div>
  
  </div>

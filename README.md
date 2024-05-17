@@ -1,16 +1,53 @@
-### Hi there 👋
 
-<!--
-**HamzahTariq11/HamzahTariq11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hamzah+Tariq!;" />
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+<h3 align="center">Bachelors in Artificial Intelligence, NUCES FAST</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 * Generative AI , Python, Deep Learning*
+ 
+ 
+
+ 
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 
+ </div>
+ 
+<div align="center"> 
+  <a href="https://mail.google.com/mail/?view=cm&to=hamzahtariq95@gmail.com&su=Your%20Subject&body=Your%20Message">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  
+
+
+ 
+
+  <a href="[https://linkedin.com/in/pedro-sales-muniz](https://www.linkedin.com/in/ht111/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+
+  
+</div>
+
+ <hr/>
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+

@@ -4,19 +4,21 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hamzah+Tariq!;" />
 </h1>
 
-<h3 align="center">Bachelors in Artificial Intelligence, NUCES FAST</h3>
+<h3 align="center"> <strong> Bachelors in Artificial Intelligence, NUCES FAST </strong></h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 * Generative AI , Python, Deep Learning*
+ 🔭  <strong> Generative AI , Python, Deep Learning </strong> 
  
  
 
  <div>
- 📫 How to reach me: <br>
-    <h1>&#x2193 </h1> <br> <br>
+ <h3>📫 How to reach me </h3> 
+    <br>
+    <h1> <strong> &#x2193 </strong> </h1> 
+    <br> <br>
  </div>
  
  </div>

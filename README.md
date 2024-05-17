@@ -15,7 +15,7 @@
  
 
  <div>
-- 📫 How to reach me: <br>
+ 📫 How to reach me: <br>
      &#x2193 <br>
  </div>
  

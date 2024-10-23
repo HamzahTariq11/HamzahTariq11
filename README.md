@@ -17,7 +17,7 @@
     <br>
 <p align="left">
 <a href="https://www.linkedin.com/in/ht111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamzahtariq" height="30" width="40" /></a>
-<a href="https://mail.google.com/mail/?view=cm&to=hamzahtariq95@gmail.com&su=Your%20Subject&body=Your%20Message" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="hamzahtariq" height="40" width="60" /></a>
+<!-- <a href="https://mail.google.com/mail/?view=cm&to=hamzahtariq95@gmail.com&su=Your%20Subject&body=Your%20Message" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="hamzahtariq" height="40" width="60" /></a> -->
 
 
 </p></div>

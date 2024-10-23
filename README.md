@@ -15,11 +15,11 @@
  <div>
  <h3>📫 How to reach me </h3> 
     <br>
-    <h1> <strong> &#x2193 </strong> </h1> 
-    <br> <br>
- </div>
- 
- </div>
+<p align="left">
+<a href="https://www.linkedin.com/in/ht111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamzahtariq" height="30" width="40" /></a>
+
+
+</p></div>
  
 <div align="center"> 
   <a href="https://mail.google.com/mail/?view=cm&to=hamzahtariq95@gmail.com&su=Your%20Subject&body=Your%20Message">
@@ -28,11 +28,6 @@
   
 
 
- 
-
-  <a href="https://www.linkedin.com/in/ht111" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
 
   
 </div>
